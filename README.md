@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InsightfulCoder
+- 👋 Hi, I’m @Shiv
 - 👀 I’m interested in DSMLAI
 - 🌱 I’m currently learning ML | NLP
 - 💞️ I’m looking to collaborate on AIML solutions & projects
